@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-09-03",
-  "capturedAtMs": 1788416727987,
+  "capturedAt": "2026-09-14",
+  "capturedAtMs": 1789380416107,
   "apiBase": "https://www.worldmonitor.app",
   "resilienceSnapshotPath": "docs/snapshots/resilience-ranking-2026-08-29.json",
   "countries": {
@@ -13,7 +13,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -21,11 +21,11 @@
       "partial": false,
       "score": "50",
       "band": "Normal",
-      "trend": "Rising +24",
+      "trend": "Stable or unavailable",
       "advisory": "Reconsider Travel",
-      "sanctions": "754 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "sanctions": "760 designated entities",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -33,11 +33,11 @@
       "partial": false,
       "score": "60",
       "band": "Elevated",
-      "trend": "Stable or unavailable",
+      "trend": "Falling -4",
       "advisory": "Do Not Travel",
       "sanctions": "80 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -49,7 +49,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "2 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -61,7 +61,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "8 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -73,7 +73,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "13 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -85,7 +85,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "16 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -97,7 +97,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "19 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -109,7 +109,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "23 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -121,7 +121,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "6 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -133,7 +133,7 @@
       "advisory": "Reconsider Travel",
       "sanctions": "13 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -145,7 +145,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "26 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -157,7 +157,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "3 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -169,7 +169,7 @@
       "advisory": "Reconsider Travel",
       "sanctions": "15 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -181,7 +181,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "40 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -193,7 +193,7 @@
       "advisory": "Do Not Travel",
       "sanctions": "4 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -205,7 +205,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "92 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -217,7 +217,7 @@
       "advisory": "Reconsider Travel",
       "sanctions": "5 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -229,7 +229,7 @@
       "advisory": "Reconsider Travel",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -241,7 +241,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "10 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -253,7 +253,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -265,7 +265,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "4 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -276,8 +276,8 @@
       "trend": "Stable or unavailable",
       "advisory": "Exercise Increased Caution",
       "sanctions": "30 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -289,7 +289,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "2 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -301,7 +301,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -313,7 +313,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -325,7 +325,7 @@
       "advisory": "Do Not Travel",
       "sanctions": "277 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -337,7 +337,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "6 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -349,7 +349,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "41 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -361,7 +361,7 @@
       "advisory": "Do Not Travel",
       "sanctions": "87 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -373,7 +373,7 @@
       "advisory": "Do Not Travel",
       "sanctions": "27 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -385,7 +385,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "3 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -395,9 +395,9 @@
       "band": null,
       "trend": null,
       "advisory": "Exercise Normal Precautions",
-      "sanctions": "98 designated entities",
+      "sanctions": "97 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -409,7 +409,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "7 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -421,7 +421,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "8 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -433,19 +433,19 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
     "CN": {
       "partial": false,
-      "score": "48",
-      "band": "Normal",
-      "trend": "Falling -6",
+      "score": "66",
+      "band": "High",
+      "trend": "Rising +5",
       "advisory": "Not present",
-      "sanctions": "1,375 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "sanctions": "1,376 designated entities",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -457,7 +457,7 @@
       "advisory": "Reconsider Travel",
       "sanctions": "358 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -469,19 +469,19 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "19 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
     "CU": {
       "partial": false,
-      "score": "36",
+      "score": "50",
       "band": "Normal",
-      "trend": "Falling -14",
-      "advisory": "Exercise Increased Caution",
-      "sanctions": "103 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "trend": "Stable or unavailable",
+      "advisory": "Reconsider Travel",
+      "sanctions": "109 designated entities",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -493,7 +493,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -505,7 +505,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "148 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -517,19 +517,19 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "10 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
     "DE": {
       "partial": false,
-      "score": "38",
+      "score": "36",
       "band": "Normal",
-      "trend": "Falling -3",
+      "trend": "Rising +4",
       "advisory": "Exercise Increased Caution",
       "sanctions": "130 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -541,7 +541,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "4 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -553,7 +553,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "3 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -565,7 +565,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "1 designated entity",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -577,7 +577,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "27 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -589,7 +589,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "14 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -599,9 +599,9 @@
       "band": null,
       "trend": null,
       "advisory": "Exercise Increased Caution",
-      "sanctions": "28 designated entities",
+      "sanctions": "29 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -613,19 +613,19 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "16 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
     "EG": {
       "partial": false,
-      "score": "25",
+      "score": "29",
       "band": "Low",
-      "trend": "Stable or unavailable",
+      "trend": "Rising +3",
       "advisory": "Exercise Increased Caution",
       "sanctions": "28 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -637,7 +637,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "10 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -649,7 +649,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "53 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -661,7 +661,7 @@
       "advisory": "Reconsider Travel",
       "sanctions": "5 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -673,7 +673,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "15 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -685,7 +685,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -697,19 +697,19 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
     "FR": {
       "partial": false,
-      "score": "42",
+      "score": "35",
       "band": "Normal",
-      "trend": "Rising +2",
+      "trend": "Rising +1",
       "advisory": "Exercise Increased Caution",
       "sanctions": "44 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -721,19 +721,19 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
     "GB": {
       "partial": false,
-      "score": "42",
+      "score": "39",
       "band": "Normal",
-      "trend": "Rising +1",
+      "trend": "Rising +4",
       "advisory": "Exercise Increased Caution",
-      "sanctions": "191 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "sanctions": "192 designated entities",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -745,7 +745,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -757,7 +757,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "21 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -769,7 +769,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "3 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -781,7 +781,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "19 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -793,7 +793,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "2 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -805,7 +805,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "2 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -817,7 +817,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "21 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -829,7 +829,7 @@
       "advisory": "Reconsider Travel",
       "sanctions": "65 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -841,7 +841,7 @@
       "advisory": "Reconsider Travel",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -853,7 +853,7 @@
       "advisory": "Reconsider Travel",
       "sanctions": "12 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -862,10 +862,10 @@
       "score": null,
       "band": null,
       "trend": null,
-      "advisory": "Exercise Increased Caution",
+      "advisory": "Reconsider Travel",
       "sanctions": "90 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -877,7 +877,7 @@
       "advisory": "Reconsider Travel",
       "sanctions": "28 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -889,7 +889,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "5 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -901,7 +901,7 @@
       "advisory": "Do Not Travel",
       "sanctions": "21 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -913,7 +913,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "9 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -925,7 +925,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "25 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -937,55 +937,55 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "8 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
     "IL": {
       "partial": false,
-      "score": "69",
-      "band": "High",
-      "trend": "Falling -4",
+      "score": "50",
+      "band": "Normal",
+      "trend": "Stable or unavailable",
       "advisory": "Reconsider Travel",
       "sanctions": "16 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
-      "geoConvergence": 30
+      "geoConvergence": 0
     },
     "IN": {
       "partial": false,
-      "score": "43",
-      "band": "Normal",
-      "trend": "Rising +6",
+      "score": "53",
+      "band": "Elevated",
+      "trend": "Rising +2",
       "advisory": "Exercise Increased Caution",
       "sanctions": "176 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
     "IQ": {
       "partial": false,
-      "score": "61",
+      "score": "60",
       "band": "Elevated",
-      "trend": "Falling -3",
+      "trend": "Stable or unavailable",
       "advisory": "Do Not Travel",
-      "sanctions": "184 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "sanctions": "193 designated entities",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
     "IR": {
       "partial": false,
-      "score": "63",
+      "score": "65",
       "band": "Elevated",
-      "trend": "Stable or unavailable",
+      "trend": "Rising +6",
       "advisory": "Do Not Travel",
-      "sanctions": "1,633 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "sanctions": "1,660 designated entities",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -997,7 +997,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "1 designated entity",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1009,7 +1009,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "81 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1021,7 +1021,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "6 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1033,19 +1033,19 @@
       "advisory": "Reconsider Travel",
       "sanctions": "31 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
     "JP": {
       "partial": false,
-      "score": "24",
+      "score": "19",
       "band": "Low",
-      "trend": "Falling -14",
+      "trend": "Falling -3",
       "advisory": "Exercise Normal Precautions",
       "sanctions": "22 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -1057,7 +1057,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "19 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1069,7 +1069,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "25 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1079,9 +1079,9 @@
       "band": null,
       "trend": null,
       "advisory": "Exercise Increased Caution",
-      "sanctions": "154 designated entities",
+      "sanctions": "155 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1093,7 +1093,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1105,7 +1105,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "1 designated entity",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1117,7 +1117,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "8 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1125,23 +1125,23 @@
       "partial": false,
       "score": "60",
       "band": "Elevated",
-      "trend": "Rising +29",
+      "trend": "Rising +35",
       "advisory": "Do Not Travel",
       "sanctions": "232 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
     "KR": {
       "partial": false,
-      "score": "29",
+      "score": "28",
       "band": "Low",
-      "trend": "Falling -6",
+      "trend": "Falling -1",
       "advisory": "Exercise Normal Precautions",
       "sanctions": "5 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -1153,7 +1153,7 @@
       "advisory": "Reconsider Travel",
       "sanctions": "15 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1163,9 +1163,9 @@
       "band": null,
       "trend": null,
       "advisory": "Exercise Normal Precautions",
-      "sanctions": "23 designated entities",
+      "sanctions": "24 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1175,9 +1175,9 @@
       "band": null,
       "trend": null,
       "advisory": "Exercise Increased Caution",
-      "sanctions": "7 designated entities",
+      "sanctions": "8 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1185,11 +1185,11 @@
       "partial": false,
       "score": "60",
       "band": "Elevated",
-      "trend": "Rising +10",
+      "trend": "Stable or unavailable",
       "advisory": "Do Not Travel",
-      "sanctions": "357 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "sanctions": "363 designated entities",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -1201,7 +1201,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1213,7 +1213,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "23 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1225,7 +1225,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "4 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1237,7 +1237,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "52 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1249,7 +1249,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1261,7 +1261,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "7 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1273,7 +1273,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "22 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1285,7 +1285,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "14 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1297,7 +1297,7 @@
       "advisory": "Do Not Travel",
       "sanctions": "29 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1309,7 +1309,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "2 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1321,7 +1321,7 @@
       "advisory": "Not present",
       "sanctions": "4 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1333,7 +1333,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "13 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1345,7 +1345,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "7 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1357,7 +1357,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1369,7 +1369,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "153 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1381,7 +1381,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "12 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1393,19 +1393,19 @@
       "advisory": "Not present",
       "sanctions": "24 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
     "MM": {
       "partial": false,
-      "score": "64",
-      "band": "Elevated",
-      "trend": "Falling -8",
+      "score": "67",
+      "band": "High",
+      "trend": "Rising +3",
       "advisory": "Do Not Travel",
-      "sanctions": "189 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "sanctions": "190 designated entities",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -1417,7 +1417,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "8 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1429,7 +1429,7 @@
       "advisory": "Not present",
       "sanctions": "2 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1441,7 +1441,7 @@
       "advisory": "Reconsider Travel",
       "sanctions": "2 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1453,7 +1453,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "56 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1465,7 +1465,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "1 designated entity",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1477,7 +1477,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "50 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1489,7 +1489,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1500,8 +1500,8 @@
       "trend": "Stable or unavailable",
       "advisory": "Exercise Increased Caution",
       "sanctions": "1,173 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -1511,9 +1511,9 @@
       "band": null,
       "trend": null,
       "advisory": "Exercise Normal Precautions",
-      "sanctions": "43 designated entities",
+      "sanctions": "44 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1525,7 +1525,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "8 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1537,7 +1537,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "3 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1549,7 +1549,7 @@
       "advisory": "Do Not Travel",
       "sanctions": "2 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1561,7 +1561,7 @@
       "advisory": "Reconsider Travel",
       "sanctions": "27 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1573,7 +1573,7 @@
       "advisory": "Reconsider Travel",
       "sanctions": "80 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1585,7 +1585,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "66 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1597,7 +1597,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "5 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1609,7 +1609,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1621,7 +1621,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1633,7 +1633,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "5 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1645,7 +1645,7 @@
       "advisory": "Reconsider Travel",
       "sanctions": "32 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1657,7 +1657,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "151 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1667,9 +1667,9 @@
       "band": null,
       "trend": null,
       "advisory": "Exercise Increased Caution",
-      "sanctions": "34 designated entities",
+      "sanctions": "35 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1681,7 +1681,7 @@
       "advisory": "Reconsider Travel",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1693,7 +1693,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "18 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1704,20 +1704,20 @@
       "trend": "Stable or unavailable",
       "advisory": "Reconsider Travel",
       "sanctions": "169 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
     "PL": {
       "partial": false,
-      "score": "38",
+      "score": "31",
       "band": "Normal",
-      "trend": "Falling -3",
+      "trend": "Rising +6",
       "advisory": "Exercise Normal Precautions",
       "sanctions": "13 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -1729,7 +1729,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "3 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1741,7 +1741,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "9 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1753,7 +1753,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "15 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1761,11 +1761,11 @@
       "partial": false,
       "score": "50",
       "band": "Normal",
-      "trend": "Rising +29",
+      "trend": "Stable or unavailable",
       "advisory": "Reconsider Travel",
       "sanctions": "19 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -1777,7 +1777,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "9 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1789,7 +1789,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "51 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1797,11 +1797,11 @@
       "partial": false,
       "score": "78",
       "band": "High",
-      "trend": "Falling -3",
+      "trend": "Rising +2",
       "advisory": "Do Not Travel",
-      "sanctions": "5,939 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "sanctions": "5,938 designated entities",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -1813,7 +1813,7 @@
       "advisory": "Reconsider Travel",
       "sanctions": "17 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1821,11 +1821,11 @@
       "partial": false,
       "score": "50",
       "band": "Normal",
-      "trend": "Rising +23",
+      "trend": "Stable or unavailable",
       "advisory": "Reconsider Travel",
       "sanctions": "23 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -1837,7 +1837,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1849,7 +1849,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "43 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1861,7 +1861,7 @@
       "advisory": "Do Not Travel",
       "sanctions": "46 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1873,7 +1873,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "13 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1883,9 +1883,9 @@
       "band": null,
       "trend": null,
       "advisory": "Exercise Normal Precautions",
-      "sanctions": "121 designated entities",
+      "sanctions": "122 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1897,7 +1897,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "10 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1909,7 +1909,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "16 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1921,7 +1921,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "8 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1933,7 +1933,7 @@
       "advisory": "Not present",
       "sanctions": "1 designated entity",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1945,7 +1945,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "1 designated entity",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1957,7 +1957,7 @@
       "advisory": "Do Not Travel",
       "sanctions": "68 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1969,7 +1969,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "6 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1981,7 +1981,7 @@
       "advisory": "Do Not Travel",
       "sanctions": "33 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -1990,10 +1990,10 @@
       "score": null,
       "band": null,
       "trend": null,
-      "advisory": "Reconsider Travel",
+      "advisory": "Exercise Increased Caution",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -2002,22 +2002,22 @@
       "score": null,
       "band": null,
       "trend": null,
-      "advisory": "Exercise Normal Precautions",
+      "advisory": "Not present",
       "sanctions": "11 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
     "SY": {
       "partial": false,
-      "score": "73",
+      "score": "76",
       "band": "High",
-      "trend": "Falling -1",
+      "trend": "Rising +4",
       "advisory": "Do Not Travel",
-      "sanctions": "299 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "sanctions": "300 designated entities",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -2029,7 +2029,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -2041,7 +2041,7 @@
       "advisory": "Do Not Travel",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -2053,7 +2053,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -2063,9 +2063,9 @@
       "band": null,
       "trend": null,
       "advisory": "Exercise Normal Precautions",
-      "sanctions": "73 designated entities",
+      "sanctions": "74 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -2074,10 +2074,10 @@
       "score": null,
       "band": null,
       "trend": null,
-      "advisory": "Exercise Normal Precautions",
+      "advisory": "Exercise Increased Caution",
       "sanctions": "6 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -2089,7 +2089,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -2101,7 +2101,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "5 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -2113,7 +2113,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "8 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -2125,19 +2125,19 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
     "TR": {
       "partial": false,
-      "score": "60",
+      "score": "53",
       "band": "Elevated",
-      "trend": "Falling -10",
+      "trend": "Falling -5",
       "advisory": "Exercise Increased Caution",
-      "sanctions": "377 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "sanctions": "384 designated entities",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -2149,7 +2149,7 @@
       "advisory": "Reconsider Travel",
       "sanctions": "1 designated entity",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -2161,19 +2161,19 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "None in feed",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
     "TW": {
       "partial": false,
-      "score": "31",
+      "score": "34",
       "band": "Normal",
-      "trend": "Falling -8",
+      "trend": "Rising +8",
       "advisory": "Exercise Normal Precautions",
       "sanctions": "34 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -2185,19 +2185,19 @@
       "advisory": "Reconsider Travel",
       "sanctions": "3 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
     "UA": {
       "partial": false,
-      "score": "98",
+      "score": "87",
       "band": "Critical",
-      "trend": "Rising +12",
+      "trend": "Rising +2",
       "advisory": "Do Not Travel",
       "sanctions": "250 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -2209,19 +2209,19 @@
       "advisory": "Do Not Travel",
       "sanctions": "18 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
     "US": {
       "partial": false,
-      "score": "34",
-      "band": "Normal",
-      "trend": "Rising +3",
+      "score": "29",
+      "band": "Low",
+      "trend": "Falling -8",
       "advisory": "Not present",
       "sanctions": "77 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -2233,7 +2233,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "3 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -2245,7 +2245,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "25 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -2257,19 +2257,19 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "3 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
     "VE": {
       "partial": false,
-      "score": "50",
-      "band": "Normal",
-      "trend": "Stable or unavailable",
+      "score": "55",
+      "band": "Elevated",
+      "trend": "Rising +5",
       "advisory": "Reconsider Travel",
       "sanctions": "252 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -2281,7 +2281,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "23 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -2293,7 +2293,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "2 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -2305,19 +2305,19 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "1 designated entity",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
     "YE": {
       "partial": false,
-      "score": "68",
-      "band": "High",
-      "trend": "Falling -2",
+      "score": "60",
+      "band": "Elevated",
+      "trend": "Stable or unavailable",
       "advisory": "Do Not Travel",
       "sanctions": "138 designated entities",
-      "asOf": "2026-09-03T06:20:23.638Z",
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "asOf": "2026-09-14T10:05:28.056Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "v8",
       "geoConvergence": 0
     },
@@ -2329,7 +2329,7 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "48 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -2341,7 +2341,7 @@
       "advisory": "Exercise Normal Precautions",
       "sanctions": "5 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     },
@@ -2353,31 +2353,31 @@
       "advisory": "Exercise Increased Caution",
       "sanctions": "20 designated entities",
       "asOf": null,
-      "retrievedAt": "2026-09-03T06:25:27.987Z",
+      "retrievedAt": "2026-09-14T10:06:56.107Z",
       "methodologyVersion": "",
       "geoConvergence": null
     }
   },
   "chokepoints": {
     "suez": {
-      "disruptionScore": "35",
+      "disruptionScore": "40",
       "status": "Yellow",
-      "congestion": "Normal",
+      "congestion": "Low",
       "navigationalWarnings": "1 warning",
       "navigationalWarningsAvailable": true,
-      "aisDisruptions": "0 AIS disruptions",
+      "aisDisruptions": "1 AIS disruption",
       "aisSnapshotAvailable": true,
       "description": "JWC Listed Area — adjacent to active Red Sea conflict and Iran-Israel war spillover",
-      "todayTransits": "2",
-      "todayCountsAvailable": true,
-      "weekMovement": "+2.4% vs prior week",
-      "partial": false,
-      "asOf": "2026-09-03T06:25:01.134Z"
+      "todayTransits": null,
+      "todayCountsAvailable": false,
+      "weekMovement": "-3.3% vs prior week",
+      "partial": true,
+      "asOf": "2026-09-14T10:03:56.732Z"
     },
     "malacca_strait": {
-      "disruptionScore": "20",
-      "status": "Yellow",
-      "congestion": "High",
+      "disruptionScore": "15",
+      "status": "Green",
+      "congestion": "Elevated",
       "navigationalWarnings": "1 warning",
       "navigationalWarningsAvailable": true,
       "aisDisruptions": "1 AIS disruption",
@@ -2385,9 +2385,9 @@
       "description": null,
       "todayTransits": null,
       "todayCountsAvailable": false,
-      "weekMovement": "-0.1% vs prior week",
+      "weekMovement": "+1.3% vs prior week",
       "partial": true,
-      "asOf": "2026-09-03T06:25:01.134Z"
+      "asOf": "2026-09-14T10:03:56.732Z"
     },
     "hormuz_strait": {
       "disruptionScore": "70",
@@ -2400,9 +2400,9 @@
       "description": "Active conflict — Iran-Israel war; Iranian naval blockade risk and mines reported in Persian Gulf",
       "todayTransits": null,
       "todayCountsAvailable": false,
-      "weekMovement": "-14.3% vs prior week",
+      "weekMovement": "-26.7% vs prior week",
       "partial": true,
-      "asOf": "2026-09-03T06:25:01.134Z"
+      "asOf": "2026-09-14T10:03:56.732Z"
     },
     "bab_el_mandeb": {
       "disruptionScore": "40",
@@ -2415,9 +2415,9 @@
       "description": "JWC Listed Area — active Houthi attacks on commercial shipping",
       "todayTransits": null,
       "todayCountsAvailable": false,
-      "weekMovement": "-10.7% vs prior week",
+      "weekMovement": "-3.3% vs prior week",
       "partial": true,
-      "asOf": "2026-09-03T06:25:01.134Z"
+      "asOf": "2026-09-14T10:03:56.732Z"
     },
     "panama": {
       "disruptionScore": "0",
@@ -2430,9 +2430,9 @@
       "description": null,
       "todayTransits": null,
       "todayCountsAvailable": false,
-      "weekMovement": "+9.1% vs prior week",
+      "weekMovement": "+2.9% vs prior week",
       "partial": true,
-      "asOf": "2026-09-03T06:25:01.134Z"
+      "asOf": "2026-09-14T10:03:56.732Z"
     },
     "taiwan_strait": {
       "disruptionScore": "20",
@@ -2443,11 +2443,11 @@
       "aisDisruptions": "1 AIS disruption",
       "aisSnapshotAvailable": true,
       "description": "Cross-strait military tensions and PLA exercises",
-      "todayTransits": "12",
+      "todayTransits": "19",
       "todayCountsAvailable": true,
-      "weekMovement": "-12.4% vs prior week",
+      "weekMovement": "+17.8% vs prior week",
       "partial": false,
-      "asOf": "2026-09-03T06:25:01.134Z"
+      "asOf": "2026-09-14T10:03:56.732Z"
     },
     "cape_of_good_hope": {
       "disruptionScore": "15",
@@ -2460,9 +2460,9 @@
       "description": null,
       "todayTransits": null,
       "todayCountsAvailable": false,
-      "weekMovement": "+0.3% vs prior week",
+      "weekMovement": "-14.5% vs prior week",
       "partial": true,
-      "asOf": "2026-09-03T06:25:01.134Z"
+      "asOf": "2026-09-14T10:03:56.732Z"
     },
     "gibraltar": {
       "disruptionScore": "15",
@@ -2473,26 +2473,26 @@
       "aisDisruptions": "1 AIS disruption",
       "aisSnapshotAvailable": true,
       "description": null,
-      "todayTransits": "24",
+      "todayTransits": "15",
       "todayCountsAvailable": true,
-      "weekMovement": "+2.7% vs prior week",
+      "weekMovement": "+10% vs prior week",
       "partial": false,
-      "asOf": "2026-09-03T06:25:01.134Z"
+      "asOf": "2026-09-14T10:03:56.732Z"
     },
     "bosphorus": {
-      "disruptionScore": "30",
+      "disruptionScore": "25",
       "status": "Yellow",
-      "congestion": "High",
+      "congestion": "Elevated",
       "navigationalWarnings": "0 warnings",
       "navigationalWarningsAvailable": true,
       "aisDisruptions": "1 AIS disruption",
       "aisSnapshotAvailable": true,
       "description": "Montreux Convention restrictions; elevated due to Russia-Ukraine war and periodic Turkish traffic controls",
-      "todayTransits": "30",
-      "todayCountsAvailable": true,
-      "weekMovement": "-13.3% vs prior week",
-      "partial": false,
-      "asOf": "2026-09-03T06:25:01.134Z"
+      "todayTransits": null,
+      "todayCountsAvailable": false,
+      "weekMovement": "-11.2% vs prior week",
+      "partial": true,
+      "asOf": "2026-09-14T10:03:56.732Z"
     },
     "korea_strait": {
       "disruptionScore": "0",
@@ -2505,9 +2505,9 @@
       "description": null,
       "todayTransits": null,
       "todayCountsAvailable": false,
-      "weekMovement": "+7.3% vs prior week",
+      "weekMovement": "-10.6% vs prior week",
       "partial": true,
-      "asOf": "2026-09-03T06:25:01.134Z"
+      "asOf": "2026-09-14T10:03:56.732Z"
     },
     "dover_strait": {
       "disruptionScore": "30",
@@ -2518,11 +2518,11 @@
       "aisDisruptions": "1 AIS disruption",
       "aisSnapshotAvailable": true,
       "description": null,
-      "todayTransits": "83",
+      "todayTransits": "120",
       "todayCountsAvailable": true,
-      "weekMovement": "+4.7% vs prior week",
+      "weekMovement": "+2% vs prior week",
       "partial": false,
-      "asOf": "2026-09-03T06:25:01.134Z"
+      "asOf": "2026-09-14T10:03:56.732Z"
     },
     "kerch_strait": {
       "disruptionScore": "70",
@@ -2535,9 +2535,9 @@
       "description": "Active conflict zone; Russia controls Kerch Bridge; Ukraine grain exports via Azov severely restricted",
       "todayTransits": null,
       "todayCountsAvailable": false,
-      "weekMovement": "-100% vs prior week",
+      "weekMovement": "0% vs prior week",
       "partial": true,
-      "asOf": "2026-09-03T06:25:01.134Z"
+      "asOf": "2026-09-14T10:03:56.732Z"
     },
     "lombok_strait": {
       "disruptionScore": "0",
@@ -2550,81 +2550,81 @@
       "description": null,
       "todayTransits": null,
       "todayCountsAvailable": false,
-      "weekMovement": "+14.9% vs prior week",
+      "weekMovement": "-6.9% vs prior week",
       "partial": true,
-      "asOf": "2026-09-03T06:25:01.134Z"
+      "asOf": "2026-09-14T10:03:56.732Z"
     }
   },
   "crises": {
     "iran-israel-escalation": {
       "state": "ready",
-      "eventsTotal": "549",
-      "fatalities": "46",
-      "politicalViolenceEvents": "68",
-      "referencePeriod": "2026-08-01",
-      "asOf": "2026-09-03T03:46:26.716Z",
+      "eventsTotal": "167",
+      "fatalities": "40",
+      "politicalViolenceEvents": "33",
+      "referencePeriod": "2026-09-01",
+      "asOf": "2026-09-14T08:30:45.420Z",
       "missingCountries": [],
       "rows": [
         {
           "code": "IR",
           "name": "Iran",
-          "events": 463,
-          "fatalities": 46,
-          "political": 61,
-          "demonstrations": 402,
-          "referencePeriod": "2026-08-01",
-          "updatedAt": "2026-09-03T03:46:26.716Z"
+          "events": 142,
+          "fatalities": 39,
+          "political": 32,
+          "demonstrations": 110,
+          "referencePeriod": "2026-09-01",
+          "updatedAt": "2026-09-14T08:30:45.420Z"
         },
         {
           "code": "IL",
           "name": "Israel",
-          "events": 86,
-          "fatalities": 0,
-          "political": 7,
-          "demonstrations": 79,
-          "referencePeriod": "2026-08-01",
-          "updatedAt": "2026-09-03T03:46:26.716Z"
+          "events": 25,
+          "fatalities": 1,
+          "political": 1,
+          "demonstrations": 24,
+          "referencePeriod": "2026-09-01",
+          "updatedAt": "2026-09-14T08:30:45.420Z"
         }
       ]
     },
     "ukraine-war": {
       "state": "ready",
-      "eventsTotal": "9,824",
-      "fatalities": "3,579",
-      "politicalViolenceEvents": "9,752",
-      "referencePeriod": "2026-08-01",
-      "asOf": "2026-09-03T03:46:26.716Z",
+      "eventsTotal": "2,656",
+      "fatalities": "1,109",
+      "politicalViolenceEvents": "2,647",
+      "referencePeriod": "2026-09-01",
+      "asOf": "2026-09-14T08:30:45.420Z",
       "missingCountries": [],
       "rows": [
         {
           "code": "RU",
           "name": "Russia",
-          "events": 2597,
-          "fatalities": 230,
-          "political": 2574,
-          "demonstrations": 23,
-          "referencePeriod": "2026-08-01",
-          "updatedAt": "2026-09-03T03:46:26.716Z"
+          "events": 713,
+          "fatalities": 42,
+          "political": 705,
+          "demonstrations": 8,
+          "referencePeriod": "2026-09-01",
+          "updatedAt": "2026-09-14T08:30:45.420Z"
         },
         {
           "code": "UA",
           "name": "Ukraine",
-          "events": 7227,
-          "fatalities": 3349,
-          "political": 7178,
-          "demonstrations": 49,
-          "referencePeriod": "2026-08-01",
-          "updatedAt": "2026-09-03T03:46:26.716Z"
+          "events": 1943,
+          "fatalities": 1067,
+          "political": 1942,
+          "demonstrations": 1,
+          "referencePeriod": "2026-09-01",
+          "updatedAt": "2026-09-14T08:30:45.420Z"
         }
       ]
     },
     "red-sea-security": {
       "state": "ready",
-      "eventsTotal": "701",
-      "fatalities": "502",
-      "politicalViolenceEvents": "569",
-      "referencePeriod": "2026-08-01",
-      "asOf": "2026-09-03T03:46:26.716Z",
+      "eventsTotal": "288",
+      "fatalities": "338",
+      "politicalViolenceEvents": "257",
+      "referencePeriod": "2026-09-01",
+      "asOf": "2026-09-14T08:30:45.420Z",
       "missingCountries": [],
       "rows": [
         {
@@ -2634,8 +2634,8 @@
           "fatalities": 0,
           "political": 0,
           "demonstrations": 0,
-          "referencePeriod": "2026-08-01",
-          "updatedAt": "2026-09-03T03:46:26.716Z"
+          "referencePeriod": "2026-09-01",
+          "updatedAt": "2026-09-14T08:30:45.420Z"
         },
         {
           "code": "ER",
@@ -2644,49 +2644,49 @@
           "fatalities": 0,
           "political": 0,
           "demonstrations": 0,
-          "referencePeriod": "2026-08-01",
-          "updatedAt": "2026-09-03T03:46:26.716Z"
+          "referencePeriod": "2026-09-01",
+          "updatedAt": "2026-09-14T08:30:45.420Z"
         },
         {
           "code": "SA",
           "name": "Saudi Arabia",
-          "events": 10,
+          "events": 0,
           "fatalities": 0,
-          "political": 10,
+          "political": 0,
           "demonstrations": 0,
-          "referencePeriod": "2026-08-01",
-          "updatedAt": "2026-09-03T03:46:26.716Z"
+          "referencePeriod": "2026-09-01",
+          "updatedAt": "2026-09-14T08:30:45.420Z"
         },
         {
           "code": "YE",
           "name": "Yemen",
-          "events": 691,
-          "fatalities": 502,
-          "political": 559,
-          "demonstrations": 132,
-          "referencePeriod": "2026-08-01",
-          "updatedAt": "2026-09-03T03:46:26.716Z"
+          "events": 288,
+          "fatalities": 338,
+          "political": 257,
+          "demonstrations": 31,
+          "referencePeriod": "2026-09-01",
+          "updatedAt": "2026-09-14T08:30:45.420Z"
         }
       ]
     },
     "sudan-conflict": {
       "state": "ready",
-      "eventsTotal": "265",
-      "fatalities": "682",
-      "politicalViolenceEvents": "260",
-      "referencePeriod": "2026-08-01",
-      "asOf": "2026-09-03T03:46:26.716Z",
+      "eventsTotal": "38",
+      "fatalities": "99",
+      "politicalViolenceEvents": "36",
+      "referencePeriod": "2026-09-01",
+      "asOf": "2026-09-14T08:30:45.420Z",
       "missingCountries": [],
       "rows": [
         {
           "code": "SD",
           "name": "Sudan",
-          "events": 265,
-          "fatalities": 682,
-          "political": 260,
-          "demonstrations": 5,
-          "referencePeriod": "2026-08-01",
-          "updatedAt": "2026-09-03T03:46:26.716Z"
+          "events": 38,
+          "fatalities": 99,
+          "political": 36,
+          "demonstrations": 2,
+          "referencePeriod": "2026-09-01",
+          "updatedAt": "2026-09-14T08:30:45.420Z"
         }
       ]
     }
@@ -2753,15 +2753,8 @@
         "kind": "methodology-example"
       }
     ],
-    "capturedAt": "2026-09-03",
-    "ciiGeoConvergenceLeaders": [
-      {
-        "code": "IL",
-        "geoConvergence": 30,
-        "instabilityScore": "69",
-        "asOf": "2026-09-03T06:20:23.638Z"
-      }
-    ]
+    "capturedAt": "2026-09-14",
+    "ciiGeoConvergenceLeaders": []
   },
   "coverage": {
     "countryCount": 196,
